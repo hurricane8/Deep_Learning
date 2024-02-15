@@ -1,2 +1,2 @@
 # Deep_Learning
- Labs & Projects to master DL
+ Labs & Projects to learn DL
